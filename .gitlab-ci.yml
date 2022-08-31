@@ -2,3 +2,4 @@ job:
   script:
   - echo "Estamos aprendendo pipeline"
   - echo "Este é um teste"
+  - "Mais um teste"
